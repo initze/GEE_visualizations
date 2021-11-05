@@ -11,3 +11,5 @@ Visualization script based on Google Earthengine and other tools
 ### Mean monthly wind speed (1981-2020)
 ![ERA5_monthly_windspeed](https://user-images.githubusercontent.com/4864803/140179210-76a794eb-c64c-4e27-946c-5c9a55119d12.gif)
 
+### Mean monthly relative humidity (1981-2020)
+![ERA5_monthly_rh](https://user-images.githubusercontent.com/4864803/140404706-f9d7e177-b194-4870-a46e-a6604bc1c71e.gif)
