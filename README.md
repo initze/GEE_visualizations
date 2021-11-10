@@ -13,3 +13,6 @@ Visualization script based on Google Earthengine and other tools
 
 ### Mean monthly relative humidity (1981-2020)
 ![ERA5_monthly_rh](https://user-images.githubusercontent.com/4864803/140404706-f9d7e177-b194-4870-a46e-a6604bc1c71e.gif)
+
+### RGB composite of mean monthly (R)temperature (G)wind speed, and (B)total precipitation (1981-2020)
+![ERA5_monthly_rgb](https://user-images.githubusercontent.com/4864803/141072338-0bf19986-5111-454c-89a1-4f26a6fa56ec.gif)
